@@ -5,4 +5,4 @@
 1. [blumenstock response](https://breej27.github.io/data150-bree/response1.html)
 
 ## formal responses
-1. [annotated bibliography](https://breej27.github.io/data150-bree/response1.html)
+1. [annotated bibliography](https://breej27.github.io/data150-bree/Annotated_bib.md.html)
