@@ -1,6 +1,7 @@
 Research Topic: Spatial Poverty Analysis in China
 
 Article 1
+
 Liu, Y., Huang, C., Wang, Q., Luan, J., & Ding, M. (2018). Assessment of Sustainable livelihood and Geographic detection of settlement sites in Ethnically Contiguous poverty-stricken areas in the aba Prefecture, China. ISPRS International Journal of Geo-Information, 7(1), 16. doi:10.3390/ijgi7010016
 
 The goal of the Chinese government is to solve the problems of annexation and poverty in rural areas by 2020, including the most poverty concentrated mountainous areas and long-term poverty-stricken areas. Under the framework of sustainable livelihoods, 5 provincial capital cities and 33 livelihood evaluation indicators were constructed. Eight terrain factors were used to integrate the tfis of residential areas, and the geographic detector model was used to distinguish the advantages of 2699 residential areas. factor. Diagnosis and establishment of Poverty Alleviation Policies and models in different regions.
@@ -12,6 +13,7 @@ According to the local poverty situation, special ecological environment, resour
 By using the SLF(Sustainable Livelihoods Framework, the dataset is divided into three parts: social economic data, spatial data and peasant household data. Based on the analysis, the areas with higher scores of livelihood capital evaluation, relying on the advantages of natural resources and minority cultural resources, have the highest income of ecotourism. Rural tourism is one of the most important and valuable factors to maintain economic growth in these areas, and it is also an important factor to provide many direct benefits for local residents.
 
 Article 2
+
 Liu, Y., Liu, J., & Zhou, Y. (2017). Spatio-temporal patterns of rural poverty in China and targeted poverty Alleviation strategies. Journal of Rural Studies, 52, 66-75. doi:10.1016/j.jrurstud.2017.04.002
 
 This study systematically studies the current situation, spatial distribution characteristics and driving mechanism of rural poverty in China. The results show that the distribution of China's rural poor population has obvious spatial agglomeration characteristics.
@@ -27,6 +29,7 @@ Another spatial pattern of China’s rural poverty is the division of “Hu Huan
 In conclusion, there are three geographical characteristics related to China’s rural poverty: Eastern Plain with isolated islands in mountain and hilly areas; Central mountain plateau; Western alpine poor areas with frequent natural disasters and complex geographic features. On the other hand, the “islanding effect” may well appear in China's poverty-stricken regions in the future. 
 
 Article 3
+
 Kim, J. (2010). INCOME INEQUALITY IN CHINA. The Journal of East Asian Affairs, 24(2), 29-50. Retrieved February 23, 2021, from http://www.jstor.org/stable/23258213
 
 In this passage, Jongsung Kim discusses the long-time debate on growing inequality in China, despite the fact that China had a rapid economic growth over the past decades. Those leading factors can vary, such as class, region and socialist platform… One of the biggest problems now in China is the income inequality has widened, especially between rural and urban areas.
@@ -42,6 +45,7 @@ Gini coefficient is another statistical method being used in this passage in ord
 An experienced journalist, Kim is aware of the limitations of his experiment and reflects on these issues in the text. The author is forthcoming about his methods and supplements his experiences with scholarly research on his places of education, the economy, and the residency of China. Kim’s project is timely, descriptive, and well-researched. 
 
 Article 4
+
 Tak-chuen, L. (2000). The Politics of Poverty Eradication in Rural China. China Review, 509-527. Retrieved February 23, 2021, from http://www.jstor.org/stable/23453381
 
 In this passage, the author discussed the politics related to poverty eradication in China between 1979 to 2000 in detail. Even though the alleviation of poverty had been through a great leap in China, however, the government promised that it will be eradicated in 2000. The chapter will focus on the genealogy and bureaucratic policies through the fieldwork of poverty alleviation policy.
