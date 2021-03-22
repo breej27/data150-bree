@@ -48,7 +48,7 @@ Because many problems are difficult to solve in technology, but they are easier 
 Resisting fatalism means we don't need to accept any of the results of evolution, but we can choose the direction of evolution. Norman Borlaug is a man who has actively selected high-yield seeds to cultivate high-yield and resistant wheat, known as the green revolution.
 
 13.Barder also recommended to promote innovation, embrace creative destruction and shape development. What did he mean by these recommendations?
-14.
+
 Promoting innovation means that we should provide a safer and more supportive environment for enterprises to take risks and innovate. Effective feedback systems are needed to make better choices. In addition, it is also important to pay attention to the direction of society.
 
 14.Who was Nicholas Georgescu-Roegen and what was his insight about economic systems and evolution?
