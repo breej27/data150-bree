@@ -3,9 +3,9 @@
 ## informal responses  
 
 1. [Blumenstock Response](https://breej27.github.io/data150-bree/response1.html)
-2. [Development Response](https://github.com/breej27/data150-bree/blob/main/response2.md)
-3. [Big Data Response](https://github.com/breej27/data150-bree/blob/main/response3.md)
-4. [Owen Barder Response](https://github.com/breej27/data150-bree/blob/main/response4.md)
+2. [Development Response](https://breej27.github.io/data150-bree/response2.html)
+3. [Big Data Response](https://breej27.github.io/data150-bree/response3.html)
+4. [Owen Barder Response](https://breej27.github.io/data150-bree/response4.html)
 
 ## formal responses
 
