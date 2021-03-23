@@ -57,3 +57,25 @@ Optimize the distribution structure of tourism investment and improve the effici
 References
 
 
+KOROBILIS, D. (2013). VAR FORECASTING USING BAYESIAN VARIABLE SELECTION. Journal of Applied Econometrics, 28(2), 204-230. Retrieved March 22, 2021, from http://www.jstor.org/stable/23355915
+
+
+Li Wan, & Edward Ng. (2016). Assessing the Sustainability of the Built Environment in Mountainous Rural Villages in Southwest China. Mountain Research and Development, 36(1), 4-14. Retrieved March 22, 2021, from http://www.jstor.org/stable/mounresedeve.36.1.4
+
+
+POLITO, V., & WICKENS, M. (2012). OPTIMAL MONETARY POLICY USING AN UNRESTRICTED VAR. Journal of Applied Econometrics, 27(4), 525-553. Retrieved March 22, 2021, from http://www.jstor.org/stable/23259125
+
+
+Zhang, C., Qi, X., Wang, K., Zhang, M., & Yue, Y. (2017). The application of geospatial techniques in MONITORING Karst vegetation recovery in southwest China. Progress in Physical Geography: Earth and Environment, 41(4), 450-477. doi:10.1177/0309133317714246
+
+
+Zhang, J., Hsu, M. K., Geng, B., & Fan, S. Z. (2021). Analyzing the outcomes Of government-led poverty Reduction policy – the case of 32 counties in southwestern china. The Journal of Developing Areas, 55(1). doi:10.1353/jda.2021.0001
+
+
+Zhou, B., Xu, Y., & Lee, S. K. (2018). Tourism development and regional PRODUCTION efficiency: Evidence from southwestern China. Tourism Economics, 25(5), 800-818. doi:10.1177/1354816618810250
+
+
+Zinda, J., Yang, J., Xue, X., & Cheng, H. (2014). Varying Impacts of Tourism Participation on Natural Resource Use in Communities in Southwest China. Human Ecology, 42(5), 739-751. Retrieved March 22, 2021, from http://www.jstor.org/stable/24013822
+
+
+
