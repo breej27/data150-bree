@@ -10,4 +10,4 @@
 ## formal responses
 
 1. [Annotated Bibliography](https://breej27.github.io/data150-bree/Annotated_Bib.html)
-2. [Literature Review] (https://breej27.github.io/data150-bree/Literature_Review.html)
+2. [Literature Review](https://breej27.github.io/data150-bree/Literature_Review.html)
