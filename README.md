@@ -8,5 +8,5 @@
 4. [Owen Barder Response](https://github.com/breej27/data150-bree/blob/main/response4.md)
 
 ## formal responses
-1. [Assignment 1: Annotated Bibliography](https://breej27.github.io/data150-bree/Annotated_Bib.html)
-2. [Assignment 2: Literature_Review] (https://breej27.github.io/data150-bree/Literature_Review.html)
+1. [Annotated Bibliography](https://breej27.github.io/data150-bree/Annotated_Bib.html)
+2. [Literature_Review] (https://breej27.github.io/data150-bree/Literature_Review.html)
