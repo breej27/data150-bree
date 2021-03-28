@@ -29,6 +29,29 @@ Introduction
 
 
 
+
+Poverty In China
+
+
+
+In today's China, poverty mainly refers to the rural poor, because decades of economic growth has basically eliminated urban poverty. It is well known that China has made great progress in poverty reduction in the past three decades. According to world bank data, more than 850 million Chinese people have been lifted out of extreme poverty; China's poverty rate has dropped from 88% in 1981 to 0.7% in 2015, measured by the percentage of people living in the equivalent of $1.90 or less per day at purchasing price parity in 2011.
+
+Since the far-reaching economic reform began in the late 1970s, economic growth has promoted a significant increase in per capita income, helping more people out of poverty than anywhere else in the world: China's per capita income increased fivefold between 1990 and 2000, from $200 to $1000. From 2000 to 2010, the per capita income increased at the same rate, from US $1000 to US $5000, making China one of the middle-income countries. From 1990 to 2005, China's poverty reduction achievements accounted for more than three-quarters of the global poverty reduction achievements, which is also an important factor for the world to achieve the Millennium Development Goals of the United Nations and divide the poor into two. This incredible success is due to the rapid expansion of the labor market driven by long-term economic growth, as well as a series of government transfers, such as the introduction of urban subsidies and rural pensions. The World Bank Group recommends that the proportion of people living below the international poverty line of $1.9 (2011 purchasing power parity) be reduced to 0.7% in 2015, and the proportion of people living below the international poverty line of $3.2 (2011 purchasing power parity) be reduced to 7% in 2015. At the end of 2018, China's population below the national poverty line (at constant prices in 2010) was 16.6 million, accounting for 1.7% of the population at that time. On November 23, 2020, China announced the nationwide elimination of absolute poverty, raising all citizens to 2300 yuan per year (the poverty line of less than US $1 per day).
+
+
+
+Current Issues In Southwest China
+
+
+
+Southwest China mainly includes the Sichuan Basin, Yunnan Guizhou Plateau, the south of Qinghai Tibet Plateau and the west of Guangdong and Guangxi hills. The complex topography has always restricted the traffic development in Southwest China. Some poor areas are too remote or even isolated from the world because of their geographical location, and the blocked traffic can not meet the needs of economic development and production activities in Southwest China. Therefore, most of the investment funds and advanced technologies are concentrated in the eastern region where the transportation is convenient and the infrastructure is perfect. The communication between the southwest region and the outside world is difficult, and it is difficult to introduce funds and technologies, which widens the gap between the southwest region and the eastern region.
+
+Education plays a particularly important role in promoting economic development. The poverty problem in Southwest China has been restricting the development of education. The lack of education resources makes the education rate and education level of the population in Southwest China low. At the same time, poor counties invest a lot of financial resources in education, and the material foundation for the development of the county will become weaker, it is difficult to attract talents to promote the rapid development of the county's economy. With the rapid development of the economy, the problem of poverty can not be solved, and eventually fall into the dead circle of mutual restriction between economic development and education development.
+
+By analyzing the geographical location and natural environment of the population distribution in the poverty-stricken areas in Southwest China, we can find that most of the poverty-stricken counties in Southwest China are located in areas with poor natural environment, and the population growth rate in these areas is often at a high level. Population growth is too fast, coupled with the backward infrastructure, often at the expense of the environment to obtain economic development, the contradiction between man and nature is serious, these areas are very easy to fall into the ecological environment and poverty cycle.
+
+
+
 Poverty Alleviation In Southwest China
 
 
