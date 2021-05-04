@@ -35,7 +35,8 @@ This method requires that a certain number of torque conditions be specified for
 Taking 31 provinces, autonomous regions and municipalities in China as samples, this paper examines the impact of Inclusive Finance on poverty and income inequality. This paper argues that the relationship among Inclusive Finance, income distribution and poverty is not one-way, and there may be reverse causality. For example, when poverty alleviation leads to an increase in demand for banking services, or when economic growth leads to a significant decrease in income inequality, this will lead to an increase in economic demand pressure for more inclusive financial policies. This endogeneity will lead to the potential deviation of the estimated coefficients. In order to overcome this potential deviation.
 
 
-（插图）
+<img width="418" alt="Screen Shot 2021-05-04 at 7 42 21 PM" src="https://user-images.githubusercontent.com/78429001/116998485-e354ce80-ad10-11eb-80c2-e492fa6d181c.png">
+
 
 
 Where, φ、γ、β all coefficients are to be estimated. The subscript i denotes the country, T is the time. Xit is the core explanatory variable, which is the proxy variable of Inclusive Finance, and Yit is the other economic variable, which is included in the model as the control variable. Based on the purpose of this paper to examine the impact of Inclusive Finance on poverty and income inequality, the dependent variable zit on the left of the above equation represents the poverty and income inequality of the ith country in the T period. Zit-1 on the right side of the equation is the lag period of the dependent variable, which reflects the dynamic nature of the model. α I is a fixed effect, which controls the unobservable variables at the national level. ε It is the error term of an econometric model, which is independent and identically distributed in the whole sample.
