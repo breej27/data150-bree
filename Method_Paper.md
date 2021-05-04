@@ -7,7 +7,8 @@ Taking Southwest China as a whole as the research object, this paper selects the
 As the three core departments of the tourism industry, tourist hotels, scenic spots and travel agencies are the core carriers of regional tourism reception and the key areas of tourism investment, which gather the capital, talent, technology, brand and other resources of regional tourism investment.The most direct manifestation of the optimization and upgrading of industrial structure is that the proportion of the primary industry in the GDP has decreased, while the proportion of the secondary and tertiary industries has increased. Considering that the overall industrial structure optimization of Southwest China is at a low level, and the industrial structure of Tibet Autonomous Region, Guizhou Province and Yunnan Province is gradually transforming from the primary industry to the secondary and tertiary industries, the proportion of non-agricultural output value to GDP is adopted to reflect the industrial structure optimization level. Considering the reliability and availability of data, GDP is selected as the index to measure the regional economic development. The relevant data are from the statistical yearbook, statistical bulletin of national economic and social development, government work report and China Tourism Statistical Yearbook of the provinces in Southwest China. For missing and abnormal values, multiple interpolation methods and regression interpolation methods are adopted to improve the data.
 
 
-<img width="348" alt="Screen Shot 2021-05-04 at 7 45 32 PM" src="https://user-images.githubusercontent.com/78429001/116998809-5c542600-ad11-11eb-987d-c7273ed3fd9e.png"
+<img width="348" alt="Screen Shot 2021-05-04 at 7 45 32 PM" src="https://user-images.githubusercontent.com/78429001/116998906-78f05e00-ad11-11eb-85eb-25c36ed75a99.png">
+
 
 
 
