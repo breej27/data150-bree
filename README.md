@@ -12,3 +12,4 @@
 1. [Assignment 1: Annotated Bibliography](https://breej27.github.io/data150-bree/Annotated_Bib.html)
 2. [Assignment 2: Literature Review](https://breej27.github.io/data150-bree/Literature_Review.html)
 3. [Assignment 3: Method Paper](https://breej27.github.io/data150-bree/Method_Paper.html)
+4. [Assignment 4b: Research Proposal](https://breej27.github.io/data150-bree/Research_Proposal.html)
